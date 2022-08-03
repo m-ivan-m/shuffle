@@ -1,3 +1,3 @@
 # shuffle
 
-Seleccion random de items de un array.
+Orden random de items de un array.
