@@ -1,4 +1,4 @@
-let arr = ['aaa', 'bebe', 'culo', 'lala', 'sosos', 'migter']
+let arr = ['aaa', 'bebe', 'ulo', 'lala', 'sosos', 'migter']
 let newArr = []
 
 while (newArr.length < arr.length) {
